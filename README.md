@@ -1,8 +1,26 @@
-# Blackjack
+# Cwdg::Blackjack
 
 Create a simple command line interface Blackjack game in Ruby.
 
-# The Plan
+## Installation
+
+Add this line to your application's Gemfile:
+
+    gem 'cwdg-blackjack'
+
+And then execute:
+
+    $ bundle
+
+Or install it yourself as:
+
+    $ gem install cwdg-blackjack
+
+## Usage
+
+Just run cwdg-blackjack
+
+## The Plan
 
 1. Card
     - value
@@ -32,3 +50,10 @@ Create a simple command line interface Blackjack game in Ruby.
         - player actions
         - check for wins
 
+## Contributing
+
+1. Fork it
+2. Create your feature branch (`git checkout -b my-new-feature`)
+3. Commit your changes (`git commit -am 'Add some feature'`)
+4. Push to the branch (`git push origin my-new-feature`)
+5. Create new Pull Request
